@@ -9,7 +9,7 @@ The files are organised per day, and will be updated as the course goes on.
 _week 1_  
 **Day 1**: Introduction, Simple Python, strings, numbers  
 **Day 2**: Data types (dictionaries, booleans, lists), Program logic, Loops & Control flow (for, while, if/else)  
-**Day 3**: Functions, Code structure, Good code practice   
+**Day 3**: Functions, Sets, Tuples, Code structure, Practice with loops and data types learned so far  
 **Day 4**: File handling   
 **Day 5**: Object-oriented programming, Recap, Practice day   
 
@@ -55,6 +55,16 @@ Repo Content
          * mutable types 2: dictionaries are a key to value mapping sequence, even better than lists, [basic dictionary operations](week1/day2/dictionary_operations.py)
          * for loops: use when you know how many times or what you want to loop over [basic for loop usage](week1/day2/mini_for_loop.py), [numeric sequence printer](week1/day2/print_numeric_sequence.py), [turtle exercise 1](week1/day2/Turtle_play.py), [turtle exercise 2](week1/day2/mini_turtle.py), [turtle colored](week1/day2/coloured_turtle.py)
          * while loops: use when you want to stop only if condition is met or don't know how many times you want to loop, [basic while loop](week1/day2/small_while_counter.py)
-         * list comprehension: one-liner for loops or other control flow statements, [basic usage](week1/day2/list_comp_practice.py)
+         * list comprehension: one-liner for loops or other control flow statements, [basic usage](week1/day2/list_comp_practice.py)  
+         
+  * [day3](day3)
+      * [list of exercises](week1/day3/exercise_outline_wk1_day3.pdf)
+      * [control flow, functions, coding practices lecture](week1/day3/day_3.pdf): only covered functions and scope in this lecture
+         * recap of day 2, practice lists, dictionaries, and list comprehension [-->](week1/day3/recap.py)
+         * introduction to defining and structuring a function with a [mean calculator](week1/day3/mean_calculator.py)
+         * more practice with functions and loops, [calculate factorial script](week1/day3/calculate_factorial.py), [string inversion script](week1/day3/invert_string.py)
+         * introduction to tuples, which are ordered immutable collections of things [-->](week1/day3/tuple_operations.py)
+         * introduction to sets, unordered (unindexed) mutable collections of things [-->](week1/day3/set_operations.py)
+
 4. [week2](week2) 
 
