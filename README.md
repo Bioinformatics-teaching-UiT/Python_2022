@@ -66,5 +66,22 @@ Repo Content
          * introduction to tuples, which are ordered immutable collections of things [-->](week1/day3/tuple_operations.py)
          * introduction to sets, unordered (unindexed) mutable collections of things [-->](week1/day3/set_operations.py)
 
+  * [day4](day4): only new material was intro to file IO, main focus of day 4 is on [Rosalind exercises](https://rosalind.info/problems/locations/)
+      * [list of exercises](week1/day4/exercise_outline_wk1_day4.pdf)
+      * introduction to file input / output [-->](week1/day4/basic_file_io.py)
+      * recap of common problems encountered with formulating conditional statements in if/else [-->](week1/day4/conditional_issues.py)
+      * Rosalind exercises [count nucleotides](week1/day4/count_nucleotides.py), [gc content](week1/day4/gc_content_rosalind_exercise.py)
+      * Main focus of the day is on the GC content exercise, if you can do this independently (fasta parser and gc functions) you are set for the rest of the course
+
+  * [day5](day5)
+      * [list of exercises](week1/day5/exercise_outline_wk1_day5.pdf)
+      * [lecture on advanced functions and modules](week1/day5/day_5_classes_modules.odp): we didn't cover classes today
+      * iteration over lists via enumerate function [enumerate example](week1/day5/enumerate_example.py)
+      * practice with advanced functions and anonymous functions [-->](week1/day5/more_functions.py)
+      * practice with lambda functions [-->](week1/day5/play_with_lambda.py)
+      * making your own module [-->](week1/day5/testmodule.py)
+      * using the module you made [-->](week1/day5/explore_modules.py)
+      * Rosalind exercise to translate rna to protein, parse your file!! don't cheat [-->](week1/day5/translate_rna_to_protein.py)
+
 4. [week2](week2) 
 
