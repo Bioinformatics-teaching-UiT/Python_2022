@@ -10,11 +10,11 @@ _week 1_
 **Day 1**: Introduction, Simple Python, strings, numbers  
 **Day 2**: Data types (dictionaries, booleans, lists), Program logic, Loops & Control flow (for, while, if/else)  
 **Day 3**: Functions, Sets, Tuples, Code structure, Practice with loops and data types learned so far  
-**Day 4**: File handling   
-**Day 5**: Object-oriented programming, Recap, Practice day   
+**Day 4**: File handling, file parsing, practice day with functions   
+**Day 5**: Advanced functions, modules, more practice  
 
 _week 2_  
-**Day 1**: Basics Science: Jupyter, Pandas, Scipy  
+**Day 1**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
 **Day 2**: Plotting: Matplotlib, Seaborn  
 **Day 3**: Biology: BLAST, Biopython  
 **Day 4**: Coding Practice!  
