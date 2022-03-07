@@ -83,5 +83,11 @@ Repo Content
       * using the module you made [-->](week1/day5/explore_modules.py)
       * Rosalind exercise to translate rna to protein, parse your file!! don't cheat [-->](week1/day5/translate_rna_to_protein.py)
 
-4. [week2](week2) 
-
+4. [week2](week2)
+   * [day1](day1)
+      * [classes lecture](week1/day5/day_5_classes_modules.odp)
+         * practice with making a [student class](week2/day1/Student.py), and a [sequence class](week2/day1/Sequence.py)
+      * [jupyter lecture](week2/day1/1_Jupyter.odp)
+         * practice using pandas on jupyter [-->](week2/day1/intro_jupy_pandas.ipynb)
+      * [pandas lecture](week2/day1/2_Pandas.odp)
+      * [numpy / scipy lecture](week2/day1/3_NumPy_SciPy.odp): not yet covered in class
