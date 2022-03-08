@@ -84,10 +84,18 @@ Repo Content
       * Rosalind exercise to translate rna to protein, parse your file!! don't cheat [-->](week1/day5/translate_rna_to_protein.py)
 
 4. [week2](week2)
-   * [day1](day1)
-      * [classes lecture](week1/day5/day_5_classes_modules.odp)
+  * [day1](day1)
+     * [classes lecture](week1/day5/day_5_classes_modules.odp)
          * practice with making a [student class](week2/day1/Student.py), and a [sequence class](week2/day1/Sequence.py)
-      * [jupyter lecture](week2/day1/1_Jupyter.odp)
+     * [jupyter lecture](week2/day1/1_Jupyter.odp)
          * practice using pandas on jupyter [-->](week2/day1/intro_jupy_pandas.ipynb)
-      * [pandas lecture](week2/day1/2_Pandas.odp)
-      * [numpy / scipy lecture](week2/day1/3_NumPy_SciPy.odp): not yet covered in class
+     * [pandas lecture](week2/day1/2_Pandas.odp)
+     * [numpy / scipy lecture](week2/day1/3_NumPy_SciPy.odp): not yet covered in class
+   
+  * [day2](day2)
+     * [sequence analysis lecture](week2/day2/Sequence_analysis.pdf): background of sequence alignment, scoring matrices, and what BLAST does
+     * [numpy / scipy lecture](week2/day2/3_NumPy_SciPy.odp): go through and practice numpy / scipy on your own
+     * more practice with pandas in jupyter notebook [-->](week2/day2/plottting_practice.ipynb)
+     * [plotting lecture](week2/day2/3_Plotting.odp): main packages for plotting are matplotlib, seaborn in python
+     * use the [python graph gallery](https://python-graph-gallery.com/) whenever you want to make your own plots, because there are plenty of examples there already and they are well documented
+     * practice plotting skills with a jupyter notebook [-->](week2/day2/presentation_plotting.ipynb)
