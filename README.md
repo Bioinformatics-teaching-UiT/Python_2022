@@ -99,3 +99,8 @@ Repo Content
      * [plotting lecture](week2/day2/3_Plotting.odp): main packages for plotting are matplotlib, seaborn in python
      * use the [python graph gallery](https://python-graph-gallery.com/) whenever you want to make your own plots, because there are plenty of examples there already and they are well documented
      * practice plotting skills with a jupyter notebook [-->](week2/day2/presentation_plotting.ipynb)
+ 
+  * [day3](day3)
+     * [biopython mini lecture](week2/day2/0_BioPython.odp)
+     * practice with Seq and SeqIO from biopython module [-->](week2/day2/sequence_practice_biopython.py)
+     * practice with blasting using NCBIWWW [-->](week2/day2/blast_on_jupy.ipynb)
