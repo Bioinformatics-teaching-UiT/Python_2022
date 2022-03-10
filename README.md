@@ -102,5 +102,9 @@ Repo Content
  
   * [day3](day3)
      * [biopython mini lecture](week2/day2/0_BioPython.odp)
-     * practice with Seq and SeqIO from biopython module [-->](week2/day2/sequence_practice_biopython.py)
-     * practice with blasting using NCBIWWW [-->](week2/day2/blast_on_jupy.ipynb)
+     * practice with Seq and SeqIO from biopython module [-->](week2/day3/sequence_practice_biopython.py)
+     * practice with blasting using NCBIWWW [-->](week2/day3/blast_on_jupy.ipynb)
+     
+  * [day4](day4)
+     * practice with paths and the pathlib module [-->](week2/day4/useful_modules.py)
+     * how to write a command-line runable program, practice with argparse [-->](week2/day4/simple_cmdline_program.py)
