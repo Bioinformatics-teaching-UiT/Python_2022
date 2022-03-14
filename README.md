@@ -17,8 +17,8 @@ _week 2_
 **Day 1**: Object-oriented programming, basics of data science: Jupyter, Pandas, Scipy  
 **Day 2**: Plotting: Matplotlib, Seaborn  
 **Day 3**: Biology: BLAST, Biopython  
-**Day 4**: Coding Practice!  
-**Day 5**: Best practices, Good code, Wrap-up  
+**Day 4**: Coding Practice, pathlib and argparse, start to work on assignments 
+**Day 5**: Best practices, Good code, Work on assignments 
 
 Repo Content
 ============
@@ -108,3 +108,6 @@ Repo Content
   * [day4](day4)
      * practice with paths and the pathlib module [-->](week2/day4/useful_modules.py)
      * how to write a command-line runable program, practice with argparse [-->](week2/day4/simple_cmdline_program.py)
+ 
+  * [day5](day5)
+     * practice with code verification of input type [-->](week2/day5/verify_input.py)
